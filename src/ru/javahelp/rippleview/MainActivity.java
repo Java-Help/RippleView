@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 			
 			@Override
 			public void onClick(View v) {
-				Toast.makeText(getApplicationContext(), " ÎËÍ", Toast.LENGTH_LONG).show();
+				Toast.makeText(getApplicationContext(), "–ö–ª–∏–∫", Toast.LENGTH_LONG).show();
 			}
 		});
     }
